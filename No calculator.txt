@@ -1,2 +1,4 @@
 Lets no concentrate on building calculator for short while.
 concentrate on git.
+
+why all of a sudden no calculator and have to concentrate on Git.
