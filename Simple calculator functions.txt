@@ -5,3 +5,10 @@ Function Substraction(){...}
 Function Multiplication(){...}
 
 Function Division(){...}
+
+Function Sin(){...}
+
+Function Cos(){...}
+
+Function Tan(){...}
+
