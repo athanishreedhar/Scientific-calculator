@@ -1,0 +1,4 @@
+1.In this framework we are going to implement the working 
+  functionality of Scientific calculator
+2.we are implementing very interesting features of Scientific calculator 
+	in this project
