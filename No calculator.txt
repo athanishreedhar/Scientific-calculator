@@ -1,0 +1,2 @@
+Lets no concentrate on building calculator for short while.
+concentrate on git.
